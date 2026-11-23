@@ -1,6 +1,6 @@
 # 1- boolean filter checks if each row meets a condition and keeps only the row that meets it. 
 
-# 2- the different is that [] gives a series and [[]] gives a dataframe.
+# 2- the different is that [] gives a series and [[]] gives a dataframe. This matters when i want to keep it in tale form or a series/dataframe is expected  
 
 # 3- you only write code once and then you can run it again and again without manually redoing everything in excel. 
 
